@@ -18,7 +18,7 @@ A simple, interactive weather web application built using HTML, CSS, and JavaScr
 
 ## Requisites
 API key from :
-![ OpenWeatherMap](https://openweathermap.org/)
+[OpenWeatherMap](https://openweathermap.org/)
 
 ## Setup and Installation
 
